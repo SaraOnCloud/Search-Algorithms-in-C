@@ -1,4 +1,4 @@
-# Search Algorithms in C
+# Searching Algorithms in C
 
 This project demonstrates the implementation of two common searching algorithms in C: Linear Search and Binary Search. The code measures and prints the execution time for each search algorithm.
 
