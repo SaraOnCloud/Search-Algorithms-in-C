@@ -48,8 +48,8 @@ int binarySearch(int *arr, int start, int end, int searchValue) {
 To compile and run the code, use the following commands:
 
 ```sh
-gcc searchingAlgorithms.c -o search
-./search
+gcc searchingAlgorithms.c -o searchingAlgorithms
+./searchingAlgorithms
 ```
 
 The output will display the position of the searched values and the time taken by each search algorithm.
